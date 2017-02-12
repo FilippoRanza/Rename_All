@@ -56,7 +56,6 @@ Installation:
   
   
  ATTENTION:
- 
     this program DOES NOT run in interacive mode, so once execute it will rename every corresponding file.
     if this program is run without care it can take serious damage to your system.
     

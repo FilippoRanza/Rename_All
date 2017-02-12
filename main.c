@@ -79,9 +79,9 @@ int main(int argc, char **argv){
         fprintf(stderr,"By default only file in selected directory are renamed\n");
         fprintf(stderr,"Directories are always ignored\n");
         fprintf(stderr,"Recognized options:\n");
-        fprintf(stderr,"\t-b [name] : set base name,default : \"Rename_\"\n");
-        fprintf(stderr,"\t-d [dir]  : set working directory,default : \".\"\n");
-        fprintf(stderr,"\t-e [ext]  : set file extension for filtering,default : \"\" \n");
+        fprintf(stderr,"\t-b name : set base name,default : \"Rename_\"\n");
+        fprintf(stderr,"\t-d dir  : set working directory,default : \".\"\n");
+        fprintf(stderr,"\t-e ext  : set file extension for filtering,default : \"\" \n");
         fprintf(stderr,"\t-h : generate hexadecimal sequence\n");
         fprintf(stderr,"\t-c : generate character sequence\n");
         fprintf(stderr,"\t-r : enable recusive mode: search in subdirectory\n");

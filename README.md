@@ -59,4 +59,11 @@ Installation:
     this program DOES NOT run in interacive mode, so once execute it will rename every corresponding file.
     if this program is run without care it can take serious damage to your system.
     
-  
+ 
+ Exit Values:
+ 0 : everything ok
+ 1 : unable to open a directory
+ 2 : unable to read file status
+ 4 : unable to allocate buffers
+ 8 : no arguments, help message shown.
+ 
